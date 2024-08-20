@@ -37,4 +37,4 @@ To get started, ensure you have the required libraries installed:
 9. Predict New Text
 
 ## 📂 **Project Link:** 
-https://github.com/quinbez/BERT-For-Multi-Class-Text-Classifier
+https://github.com/quinbez/BERT-For-Multi-Class-Text-Classifier/blob/main/BERT_for_Multi_class_text_classifier.ipynb
